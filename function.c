@@ -8,5 +8,5 @@ Function2()
 	{
 	//DeveloperA code
 	}	
-
+Tout est un!!!
 }
